@@ -1,5 +1,6 @@
 # Android
 Mykeypet.dk - my own compay
+
 CVR : 41788097
 
 Webshop where you can buy one/ multiple items.
@@ -24,6 +25,7 @@ red by the company's customer support.
 In the payment page there will be the general fileds(ex. name, street) then it will redirect the customer to the payment page.
 
 Must Have :
+
 As a user, I want to see the products so that I know what I am buying.
 
 As a user, I want to see the product's pictures so that I know how the product will look like.
@@ -39,6 +41,7 @@ As a user, I want to see the products that I have ordered so that I know what I 
 As a user, I want to be able to submit the picture of my dog so that the product will come with the pet's picture engraved.
 
 Will not have:
+
 As owner I want to have a card payment page so that the customers can introduce their credit card.
 
 As a user, I want to be able to log in into my account to see previous purchases.
