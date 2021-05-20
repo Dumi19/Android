@@ -27,7 +27,7 @@ In the payment page there will be the general fileds(ex. name, street) then it w
 
 Must Have :
 
- - [X] As a user, I want to see the products so that I know what I am buying.    
+ - [x] As a user, I want to see the products so that I know what I am buying.    
 
 As a user, I want to see the product's pictures so that I know how the product will look like.
 
