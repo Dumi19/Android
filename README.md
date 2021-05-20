@@ -48,3 +48,5 @@ As owner I want to have a card payment page so that the customers can introduce 
 - [x] As a user, I want to be able to log in into my account to see previous purchases.
 
 - [x] As a user, I want to be able to register so that I can make an account
+
+Link YOUTUBE -> https://youtu.be/mCaJ0W5OZpQ
