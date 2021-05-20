@@ -29,22 +29,22 @@ Must Have :
 
  - [x] As a user, I want to see the products so that I know what I am buying.    
 
-As a user, I want to see the product's pictures so that I know how the product will look like.
+- [x] As a user, I want to see the product's pictures so that I know how the product will look like.
 
-As a user, I want to be able to browse throught the products so that I can choose one on my liking.
+- [x] As a user, I want to be able to browse throught the products so that I can choose one on my liking.
 
-As a user, I want to see the contact page so that I can contact the custoemr support if I have any questions.
+As a user, I want to see the contact page so that I can contact the custoemr support if I have any questions. ?
 
-As a user, I want to be able to modify my order so that I can if I make mistakes to come back and re order.
+As a user, I want to be able to modify my order so that I can if I make mistakes to come back and re order. ?
 
-As a user, I want to see the products that I have ordered so that I know what I will receive.
+As a user, I want to see the products that I have ordered so that I know what I will receive. ?
 
 As a user, I want to be able to submit the picture of my dog so that the product will come with the pet's picture engraved.
 
 Will not have:
 
-As owner I want to have a card payment page so that the customers can introduce their credit card.
+As owner I want to have a card payment page so that the customers can introduce their credit card. ?
 
-As a user, I want to be able to log in into my account to see previous purchases.
+- [x] As a user, I want to be able to log in into my account to see previous purchases.
 
-As a user, I want to be able to register so that I can make an account
+- [x] As a user, I want to be able to register so that I can make an account
